@@ -6,7 +6,7 @@ This is a hack of Pokemon Crystal Kaizo+ that was made by me, but has less featu
 
 # General Information
 
-- Compile this hack by installing Cygwin, and using the *make crystal* command
+- Compile this hack by checking *INSTALL.md*
 - Game has more diverse encounter pools, improved level up learnsets (TMs are way less important)
 - All trainers have been heavily buffed
 - Amazing resource for damage calculating, trainer parties and encounters, in case you are nuzlocking, is Emi's CK+ calculator (https://emi.dev/ck+/#/calc/)
